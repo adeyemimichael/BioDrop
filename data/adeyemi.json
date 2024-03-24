@@ -1,0 +1,17 @@
+{
+  "name": "Ayobami  Akande",
+  "bio": "frontend dev and computer engineering final year students | web3 enthusiast | **GitHub** Star",
+  "links": [
+    {
+      "group": "frontend developer",
+      "icon": "FaLink"
+    }
+       {
+      "group": "Socials Primary",
+      "name": "linkedin: Follow me",
+      "url": "https://www.linkedin.com/in/akandeayobami/",
+      "icon": "FaLinkedin",
+      "color": "#00ACEE"
+    },
+  ]
+}
